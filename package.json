@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "elm-spa": "^6.0.4"
+  },
+  "name": "tailwind-testing",
+  "description": "> 🌳  built with [elm-spa](https://elm-spa.dev)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "elm-tailwind-modules": "^0.3.2",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  },
+  "scripts": {
+    "dev-server": "elm-spa server"
+  },
+  "author": "",
+  "license": "ISC"
+}
